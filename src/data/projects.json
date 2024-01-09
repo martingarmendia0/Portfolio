@@ -18,7 +18,7 @@
   {
     "title": "Project 3: ReactJS",
     "imageSrc": "projects/project.png",
-    "description": "This application is a simple e-commerce database, with Firebase Firestore integrated for a dynamic database of products.",
+    "description": "This application is a simple e-commerce, with Firebase Firestore integrated for a dynamic database of products.",
     "skills": ["React", "Git", "Firebase"],
     "demo": "https://drive.google.com/file/d/1OuPTR-LGFWWeg1o8Qz8P7-IxuKB__x8A/view?usp=sharing",
     "source": "https://github.com/martingarmendia0/PFReactGarmendia"
