@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project 1: Web Development",
+    "imageSrc": "projects/project.png",
+    "description": "With this project, I learnt how to use HTML, CSS and some frameworks such as Bootstrap in order to make the frontend side of an ecommerce",
+    "skills": ["HTML", "CSS", "Bootstrap", "SASS", "Git"],
+    "demo": "https://pf-garmendia.vercel.app/index.html",
+    "source": "https://github.com/martingarmendia0/PFGarmendia"
+  },
+  {
+    "title": "Project 2: JavaScript",
+    "imageSrc": "projects/project.png",
+    "description": "With this project, I implemented JavaScript to process a simple drink store with no styles.",
+    "skills": ["JavaScript", "HTML", "Git"],
+    "demo": "https://martingarmendia0.github.io/ProyectoFinal-Garmendia/",
+    "source": "https://github.com/martingarmendia0/ProyectoFinal-Garmendia"
+  },
+  {
+    "title": "Project 3: ReactJS",
+    "imageSrc": "projects/project.png",
+    "description": "This application is a simple e-commerce database, with Firebase Firestore integrated for a dynamic database of products.",
+    "skills": ["React", "Git", "Firebase"],
+    "demo": "https://drive.google.com/file/d/1OuPTR-LGFWWeg1o8Qz8P7-IxuKB__x8A/view?usp=sharing",
+    "source": "https://github.com/martingarmendia0/PFReactGarmendia"
+  }
+]
